@@ -1,0 +1,34 @@
+body{
+    background-color: #F73D93;
+}
+.my footer{
+    background-color: #16003B;
+    color: white;
+    margin:0 auto;
+
+}
+.container{
+    height: 100%;
+    width: 100vw;
+    background-color: #16003B;
+    color: white;
+}
+.col-sm-4{
+    margin: 0 auto;
+}
+.holder{
+    margin: 0 auto;
+}
+.container1{
+    background-color: #16003B;
+    color: rgb(240, 240, 240);
+}
+
+.container12{
+    background-color: #16003B;
+    color: rgb(240, 240, 240);
+}
+.hif{
+    margin: 0 auto;
+    margin-left: 400px;
+}
