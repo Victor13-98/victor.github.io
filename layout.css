@@ -12,6 +12,7 @@ body{
     width: 100vw;
     background-color: #16003B;
     color: white;
+    border-radius: 4%;
 }
 .col-sm-4{
     margin: 0 auto;
@@ -21,12 +22,13 @@ body{
 }
 .container1{
     background-color: #16003B;
-    color: rgb(240, 240, 240);
+    color: rgb(222, 111, 0);
+    
 }
 
 .container12{
     background-color: #16003B;
-    color: rgb(240, 240, 240);
+    color: rgb(222, 111, 0);
 }
 .hif{
     margin: 0 auto;
